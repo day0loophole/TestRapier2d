@@ -1,0 +1,10 @@
+{
+  "name": "TestRapier",
+  "uuid": "a35ae7d4-1903-42f3-a3d4-5970f2bee259",
+  "creator": {
+    "version": "3.8.1"
+  },
+  "devDependencies": {
+    "@dimforge/rapier2d-compat": "^0.14.0"
+  }
+}

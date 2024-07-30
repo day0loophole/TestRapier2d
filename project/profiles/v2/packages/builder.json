@@ -1,0 +1,124 @@
+{
+  "__version__": "1.3.7",
+  "log": {
+    "level": 4
+  },
+  "common": {
+    "polyfills": {
+      "asyncFunctions": true
+    },
+    "mainBundleCompressionType": "merge_all_json",
+    "buildPath": "project://build",
+    "outputName": "web-mobile",
+    "platform": "web-mobile",
+    "skipCompressTexture": true
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1722311026932": {
+        "type": "build",
+        "id": "1722311026932",
+        "progress": 1,
+        "state": "success",
+        "stage": "run",
+        "message": "2024-7-30 16:04:03 run package E:\\TestRapier\\build\\web-mobile success!",
+        "options": {
+          "name": "TestRapier",
+          "server": "",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": true,
+          "sourceMaps": false,
+          "polyfills": {
+            "asyncFunctions": true
+          },
+          "experimentalEraseModules": false,
+          "startSceneAssetBundle": false,
+          "bundleConfigs": [],
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "merge_all_json",
+          "useSplashScreen": true,
+          "bundleCommonChunk": false,
+          "packAutoAtlas": true,
+          "startScene": "e70949f5-53d5-4f7c-9554-16685a19ddb5",
+          "outputName": "web-mobile",
+          "taskName": "web-mobile",
+          "scenes": [
+            {
+              "url": "db://assets/scene.scene",
+              "uuid": "e70949f5-53d5-4f7c-9554-16685a19ddb5"
+            }
+          ],
+          "packages": {},
+          "__version__": "1.3.7",
+          "buildMode": "normal",
+          "logDest": "project://temp/builder/log/web-mobile2024-7-30 11-43.log"
+        },
+        "time": "2024-7-30 16:01:46",
+        "dirty": true,
+        "rawOptions": {
+          "name": "TestRapier",
+          "server": "",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": true,
+          "sourceMaps": false,
+          "polyfills": {
+            "asyncFunctions": true
+          },
+          "experimentalEraseModules": false,
+          "startSceneAssetBundle": false,
+          "bundleConfigs": [],
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "merge_all_json",
+          "useSplashScreen": true,
+          "bundleCommonChunk": false,
+          "packAutoAtlas": true,
+          "startScene": "e70949f5-53d5-4f7c-9554-16685a19ddb5",
+          "outputName": "web-mobile",
+          "taskName": "web-mobile",
+          "scenes": [
+            {
+              "url": "db://assets/scene.scene",
+              "uuid": "e70949f5-53d5-4f7c-9554-16685a19ddb5"
+            }
+          ],
+          "packages": {
+            "engine": {
+              "cleanupImageCache": "inheritProjectSetting",
+              "__version__": "1.0.7"
+            },
+            "adsense-h5g-plugin": {
+              "enableAdsense": false,
+              "enableTestAd": false,
+              "__version__": "1.0.1",
+              "AFPHostPropertyCode": "ca-host-pub-5396158963872751",
+              "AFPHostDomain": "douyougame.com",
+              "otherAFPHostPropertyCode": "",
+              "otherAFPDomain": ""
+            },
+            "web-mobile": {
+              "orientation": "landscape",
+              "embedWebDebugger": false,
+              "cullEngineAsmJsModule": false,
+              "__version__": "1.0.1"
+            },
+            "cocos-service": {
+              "configID": "ec02bd",
+              "services": []
+            }
+          },
+          "__version__": "1.3.7",
+          "buildMode": "normal",
+          "logDest": "project://temp/builder/log/web-mobile2024-7-30 11-43.log"
+        }
+      }
+    }
+  }
+}
